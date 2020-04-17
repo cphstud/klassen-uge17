@@ -18,7 +18,9 @@ Se følgende serie om TalAnalyse opgaven.
 
 [Talanalysen - Singleton DBConnector](https://youtu.be/KQTmeuoXY78)
 
-I må også gerne se flg [video om MVC](https://www.youtube.com/watch?v=J-F8PJUvVwU "Blomster refaktoreret")
+[Talanalysen - First CRUD](https://youtu.be/wAsQRVHvcqg)
+
+I må også gerne (gen)se flg [video om MVC](https://www.youtube.com/watch?v=J-F8PJUvVwU "Blomster refaktoreret")
 
 
 |     | Teacher |Student | Group-breakout |individual breakout |
