@@ -1,6 +1,7 @@
 ## Uge17: Mario - nu med database
 ### mandag d 20/4 
 Se følgende serie om TalAnalyse opgaven.
+
 [Talanlysen - statisk](https://youtu.be/xZHu0EAyeFg)
 
 [Talanalysen - OO](https://youtu.be/lqg-p7OLaR4)
