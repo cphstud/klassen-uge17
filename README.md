@@ -18,9 +18,8 @@ Se følgende serie om TalAnalyse opgaven.
 
 [Talanalysen - Singleton DBConnector](https://youtu.be/KQTmeuoXY78)
 
+I må også gerne se flg [video om MVC](https://www.youtube.com/watch?v=J-F8PJUvVwU "Blomster refaktoreret")
 
-
-### tirsdag d 21/4 
 
 |     | Teacher |Student | Group-breakout |individual breakout |
 | --- | ------- |------- | -------------- |------------------- |
@@ -38,4 +37,25 @@ Se følgende serie om TalAnalyse opgaven.
 | 11:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
 | 11:30 | |  |`Jeres Mario` | |
 | 11:45 | || | |
+
+
+### tirsdag d 21/4 
+
+|     | Teacher |Student | Group-breakout |individual breakout |
+| --- | ------- |------- | -------------- |------------------- |
+| 12:30 |`Dagen ppt`       |        |                |                    | 
+| 12:45 |      |        | ``               |                    | 
+| 13:00 |       |``        |                ||                     
+| 13:15 |PAUSE       |  PAUSE      |PAUSE                |PAUSE                    |PAUSE 
+| 13:30 | |``  | ||
+| 13:45 | |  `` |||
+| 14:00 | |``  | | |
+| 14:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
+| 14:30 | |  | | |
+| 14:45 |`Mario II MVC-agtigt` |  | | |
+| 15:00 |`` | | | |
+| 15:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
+| 15:30 | |  |`` | |
+| 15:45 |`` || | |
+
 
