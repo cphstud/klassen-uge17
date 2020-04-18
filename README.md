@@ -22,6 +22,8 @@ Se følgende serie om TalAnalyse opgaven.
 
 I må også gerne (gen)se flg [video om MVC](https://www.youtube.com/watch?v=J-F8PJUvVwU "Blomster refaktoreret")
 
+Vi skal arbejde med shop-databasen som ligger her. Desuden ligger der en anden database - world.sql - som vi også skal lege lidt med (sql-quizze)
+
 
 |     | Teacher |Student | Group-breakout |individual breakout |
 | --- | ------- |------- | -------------- |------------------- |
@@ -33,11 +35,11 @@ I må også gerne (gen)se flg [video om MVC](https://www.youtube.com/watch?v=J-F
 | 09:45 | |  |`Dit interface` ||
 | 10:00 | |`Vores interface`  | | |
 | 10:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
-| 10:30 |`OrderFlowers JDBC` |  | | |
-| 10:45 | |  |`OrderFlowers JDBC` | |
-| 11:00 |`Mario II` | | | |
+| 10:30 |`shop.sql` |  | | |
+| 10:45 | |  |`shop.opgaver` | |
+| 11:00 |`shop-solutions` | | | |
 | 11:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
-| 11:30 | |  |`Jeres Mario` | |
+| 11:30 |`Shop design` |  | | |
 | 11:45 | || | |
 
 
