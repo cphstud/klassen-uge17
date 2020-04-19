@@ -28,18 +28,18 @@ Vi skal arbejde med shop-databasen som ligger her. Desuden ligger der en anden d
 |     | Teacher |Student | Group-breakout |individual breakout |
 | --- | ------- |------- | -------------- |------------------- |
 | 08:30 |`Dagens ppt`       |        |                |                    | 
-| 08:45 |`JDBC`      |        |              |                    | 
+| 08:45 |`JDBC simple`      |        |              |                    | 
 | 09:00 |       |       | `Din JDBC`                ||                     
 | 09:15 |PAUSE       |  PAUSE      |PAUSE                |PAUSE                    |PAUSE 
-| 09:30 |`Interfaces` |  | ||
-| 09:45 | |  |`Dit interface` ||
-| 10:00 | |`Vores interface`  | | |
+| 09:30 |`world.sql` |  | ||
+| 09:45 | |  |`world quiz` ||
+| 10:00 | |`Vores quiz`  | | |
 | 10:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
 | 10:30 |`shop.sql` |  | | |
 | 10:45 | |  |`shop.opgaver` | |
-| 11:00 |`shop-solutions` | | | |
+| 11:00 |`JDBC shop` | | | |
 | 11:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
-| 11:30 |`Shop design` |  | | |
+| 11:30 |`JDBC shop` |  | | |
 | 11:45 | || | |
 
 
