@@ -48,8 +48,8 @@ Vi skal arbejde med shop-databasen som ligger her. Desuden ligger der en anden d
 |     | Teacher |Student | Group-breakout |individual breakout |
 | --- | ------- |------- | -------------- |------------------- |
 | 12:30 |`Dagen ppt`       |        |                |                    | 
-| 12:45 |      |        | ``               |                    | 
-| 13:00 |       |``        |                ||                     
+| 12:45 |`Git`      |        |               |                    | 
+| 13:00 |       |        |`Git opgaver`                ||                     
 | 13:15 |PAUSE       |  PAUSE      |PAUSE                |PAUSE                    |PAUSE 
 | 13:30 | |``  | ||
 | 13:45 | |  `` |||
