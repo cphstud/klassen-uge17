@@ -1,0 +1,16 @@
+@startuml
+
+
+Controller.MainController -- Model.Riddle
+
+class Controller.MainController {
+
+}
+class Model.Riddle {
+String : name
+String : message
+--
+getName() : Strinng
+}
+
+@enduml
