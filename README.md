@@ -45,6 +45,9 @@ Vi skal arbejde med shop-databasen som ligger her. Desuden ligger der en anden d
 
 ### mandag eftermiddag .. d 21/4 
 
+Videoer relateret til dagens emne. Det er lidt efter devisen asfalten lægges mens jeg kører.
+Så man kan med fordel sætte tempoet op!
+
 [Reverse engineering af Shop](https://youtu.be/3EPTkcAnviA)
 
 [Create Riddle step 1](https://youtu.be/vtFHyLaz18M)
