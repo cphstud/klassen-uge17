@@ -43,6 +43,19 @@ Vi skal arbejde med shop-databasen som ligger her. Desuden ligger der en anden d
 | 11:45 | || | |
 
 
+### mandag eftermiddag .. d 21/4 
+
+[Reverse engineering af Shop](https://youtu.be/3EPTkcAnviA)
+
+[Create Riddle step 1](https://youtu.be/vtFHyLaz18M)
+
+[Create Riddle step 2](https://youtu.be/bDVivHfA4Uk)
+
+[Create Riddle step 3](https://youtu.be/Wc6dCUDRDQM)
+
+Koden ligger her på branchen riddle
+
+
 ### tirsdag d 21/4 
 
 |     | Teacher |Student | Group-breakout |individual breakout |
@@ -61,5 +74,6 @@ Vi skal arbejde med shop-databasen som ligger her. Desuden ligger der en anden d
 | 15:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
 | 15:30 | |  |`` | |
 | 15:45 |`` || | |
+
 
 
