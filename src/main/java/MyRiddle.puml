@@ -1,33 +1,48 @@
 @startuml
+left to right direction
 
 
 note "Metode med sql" as N1
 N1 .. DataMappers.RiddleMapper
+object "db" as m1
+object "Object" as m2
+object "Order" as m3
+object "OrderLine" as m4
+m1 : <img:"../../../Data/mysql.png">
+m2 : <img:"../../../Data/table.png">
+m3 : <img:"../../../Data/table.png">
+m4 : <img:"../../../Data/table.png">
+m4 -- m2
+m4 -- m3
+m1 -- m4
+Util.DBConnector -- m1
 Controller.MainController -- Model.Riddle
-Controller.MainController -- Model.Player
-Model.Riddle o-- Model.Player
-Model.Room o-- Model.Player
-Controller.MainController -- Model.Room
+Controller.MainController -- View.ViewRiddle
+' Controller.MainController -- Model.Player
+' Model.Riddle o-- Model.Player
+' Model.Room o-- Model.Player
+' Controller.MainController -- Model.Room
 Controller.MainController *-- DataMappers.RiddleHandler
-Controller.MainController *-- DataMappers.PlayerHandler
-Controller.MainController *-- DataMappers.RoomHandler
+' Controller.MainController *-- DataMappers.PlayerHandler
+' Controller.MainController *-- DataMappers.RoomHandler
 DataMappers.RiddleHandler *-- DataMappers.RiddleMapper
-DataMappers.PlayerHandler *-- DataMappers.PlayerMapper
-DataMappers.RoomHandler *-- DataMappers.RoomMapper
+' DataMappers.PlayerHandler *-- DataMappers.PlayerMapper
+' DataMappers.RoomHandler *-- DataMappers.RoomMapper
 Util.DBConnector -- DataMappers.RiddleMapper
 ' Util.DBConnector -- DataMappers.RoomMapper
 ' Util.DBConnector -- DataMappers.PlayerMapper
 
 class Controller.MainController {
 createRiddle();
-createPlayer();
+'createPlayer();
 getAllRiddles();
-getAllPlayers();
-getAllRooms();
+'getAllPlayers();
+'getAllRooms();
 }
 class Util.DBConnector {
 }
 
+/'
 class DataMappers.PlayerMapper {
 getAllPlayers();
 createPlayer();
@@ -35,10 +50,12 @@ createPlayer();
 class DataMappers.RoomMapper {
 getAllRooms();
 }
+'/
 class DataMappers.RiddleMapper {
-getAllRiddles();
+¢¢getAllRiddles();
 createRiddle(Riddle);
 }
+/'
 class DataMappers.RoomHandler {
 RoomMapper : roomM
 rooM.getAllRooms();
@@ -48,10 +65,25 @@ PlayerMapper : pm
 pm.getAllPlayers();
 pm.createPlayer();
 }
+'/
 class DataMappers.RiddleHandler {
 RiddleMapper : rm
 rm.getAllRiddles();
 rm.createRiddle();
+}
+
+class View.ViewRiddle {
+showAllRiddles()
+solveRiddle()
+createRiddle()
+}
+/'
+class Model.Room {
+String : name
+int : id
+ArrayList<Player> : players
+--
+getName() : String
 }
 class Model.Player {
 String : name
@@ -66,12 +98,6 @@ ArrayList<Player> : players
 --
 getName() : String
 }
-class Model.Room {
-String : name
-int : id
-ArrayList<Player> : players
---
-getName() : String
-}
+'/
 
 @enduml
