@@ -1,0 +1,8 @@
+insert into players (PlayerName,RoomID) Values("customername",1);
+insert into players (PlayerName,RoomID) Values("Alfreds",1);
+insert into players (PlayerName,RoomID) Values("Ana",1);
+insert into players (PlayerName,RoomID) Values("Antonio",1);
+insert into players (PlayerName,RoomID) Values("Around",1);
+insert into players (PlayerName,RoomID) Values("Berglunds",1);
+insert into players (PlayerName,RoomID) Values("Blauer",1);
+insert into players (PlayerName,RoomID) Values("Blondel",1);

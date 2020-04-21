@@ -1,16 +1,77 @@
 @startuml
 
 
+note "Metode med sql" as N1
+N1 .. DataMappers.RiddleMapper
 Controller.MainController -- Model.Riddle
+Controller.MainController -- Model.Player
+Model.Riddle o-- Model.Player
+Model.Room o-- Model.Player
+Controller.MainController -- Model.Room
+Controller.MainController *-- DataMappers.RiddleHandler
+Controller.MainController *-- DataMappers.PlayerHandler
+Controller.MainController *-- DataMappers.RoomHandler
+DataMappers.RiddleHandler *-- DataMappers.RiddleMapper
+DataMappers.PlayerHandler *-- DataMappers.PlayerMapper
+DataMappers.RoomHandler *-- DataMappers.RoomMapper
+Util.DBConnector -- DataMappers.RiddleMapper
+' Util.DBConnector -- DataMappers.RoomMapper
+' Util.DBConnector -- DataMappers.PlayerMapper
 
 class Controller.MainController {
+createRiddle();
+createPlayer();
+getAllRiddles();
+getAllPlayers();
+getAllRooms();
+}
+class Util.DBConnector {
+}
 
+class DataMappers.PlayerMapper {
+getAllPlayers();
+createPlayer();
+}
+class DataMappers.RoomMapper {
+getAllRooms();
+}
+class DataMappers.RiddleMapper {
+getAllRiddles();
+createRiddle(Riddle);
+}
+class DataMappers.RoomHandler {
+RoomMapper : roomM
+rooM.getAllRooms();
+}
+class DataMappers.PlayerHandler {
+PlayerMapper : pm
+pm.getAllPlayers();
+pm.createPlayer();
+}
+class DataMappers.RiddleHandler {
+RiddleMapper : rm
+rm.getAllRiddles();
+rm.createRiddle();
+}
+class Model.Player {
+String : name
+String : id
+--
+getName() : String
 }
 class Model.Riddle {
 String : name
 String : message
+ArrayList<Player> : players
 --
-getName() : Strinng
+getName() : String
+}
+class Model.Room {
+String : name
+int : id
+ArrayList<Player> : players
+--
+getName() : String
 }
 
 @enduml

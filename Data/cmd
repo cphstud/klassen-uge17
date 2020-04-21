@@ -1,0 +1,5 @@
+insert into rooms (RoomName) Value("Germany");
+insert into rooms (RoomName) Value("Mexico");
+insert into rooms (RoomName) Value("Sweden");
+insert into rooms (RoomName) Value("Germany");
+insert into rooms (RoomName) Value("France");

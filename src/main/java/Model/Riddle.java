@@ -1,5 +1,7 @@
 package Model;
 
+import java.util.ArrayList;
+
 public class Riddle {
     int level;
     int id;
@@ -7,12 +9,27 @@ public class Riddle {
     String name;
     String category;
     boolean isSolved;
+    ArrayList<Player> solvers;
     String message;
 
     public Riddle(int level, String name)  {
+        solvers = new ArrayList<>();
         this.level=level;
         this.name=name;
         this.isSolved=false;
+    }
+
+    public boolean addSolver(Player player) {
+        if (solvers.contains(player)) {
+            return false;
+        } else {
+            solvers.add(player) ;
+            return true;
+        }
+    }
+
+    public ArrayList<Player> getSolvers() {
+        return solvers;
     }
 
     public void setLevel(int level) {
