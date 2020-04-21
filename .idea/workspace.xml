@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8143efb0-c798-4b54-8688-fbb78ed1a125" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aqnsSf4myx0GVFPpCHJoNee60r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="DataLag" />
+      <recent name="Util" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BikeMapperTest">
+    <configuration name="BikeMapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BikeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataLag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataLag" />
+      <option name="MAIN_CLASS_NAME" value="DataLag.BikeMapperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeMapperTest.getAllBikes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BikeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataLag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataLag" />
+      <option name="MAIN_CLASS_NAME" value="DataLag.BikeMapperTest" />
+      <option name="METHOD_NAME" value="getAllBikes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBConnectorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BikeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Util" />
+      <option name="MAIN_CLASS_NAME" value="Util.DBConnectorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBConnectorTest.getConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BikeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Util" />
+      <option name="MAIN_CLASS_NAME" value="Util.DBConnectorTest" />
+      <option name="METHOD_NAME" value="getConnection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BikeMapperTest" />
+        <item itemvalue="JUnit.BikeMapperTest.getAllBikes" />
+        <item itemvalue="JUnit.DBConnectorTest.getConnection" />
+        <item itemvalue="JUnit.DBConnectorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8143efb0-c798-4b54-8688-fbb78ed1a125" name="Default Changelist" comment="" />
+      <created>1587472197297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587472197297</updated>
+      <workItem from="1587472200735" duration="5504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="537" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1587475502629">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="537" y="137" key="#com.intellij.ide.util.MemberChooser/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1587475502629" />
+    <state width="1398" height="270" key="GridCell.Tab.0.bottom" timestamp="1587476841136">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.bottom/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1587476841136" />
+    <state width="1398" height="270" key="GridCell.Tab.0.bottom/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1587474152469" />
+    <state width="1398" height="270" key="GridCell.Tab.0.center" timestamp="1587476841133">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.center/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1587476841133" />
+    <state width="1398" height="270" key="GridCell.Tab.0.center/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1587474152467" />
+    <state width="1398" height="270" key="GridCell.Tab.0.left" timestamp="1587476841132">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.left/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1587476841132" />
+    <state width="1398" height="270" key="GridCell.Tab.0.left/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1587474152466" />
+    <state width="1398" height="270" key="GridCell.Tab.0.right" timestamp="1587476841135">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.right/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1587476841135" />
+    <state width="1398" height="270" key="GridCell.Tab.0.right/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1587474152468" />
+    <state width="1398" height="270" key="GridCell.Tab.1.bottom" timestamp="1587476842826">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.1.bottom/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1587476842826" />
+    <state width="1398" height="270" key="GridCell.Tab.1.bottom/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1587474151961" />
+    <state width="1398" height="270" key="GridCell.Tab.1.center" timestamp="1587476842818">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.1.center/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1587476842818" />
+    <state width="1398" height="270" key="GridCell.Tab.1.center/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1587474151958" />
+    <state width="1398" height="270" key="GridCell.Tab.1.left" timestamp="1587476842817">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.1.left/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1587476842817" />
+    <state width="1398" height="270" key="GridCell.Tab.1.left/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1587474151957" />
+    <state width="1398" height="270" key="GridCell.Tab.1.right" timestamp="1587476842820">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.1.right/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1587476842820" />
+    <state width="1398" height="270" key="GridCell.Tab.1.right/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1587474151959" />
+    <state x="700" y="155" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587476566293">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="700" y="155" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1587476566293" />
+    <state x="779" y="182" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1587473178379" />
+    <state x="383" y="206" width="673" height="472" key="find.popup" timestamp="1587474384813">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="383" y="206" width="673" height="472" key="find.popup/0.23.1440.838/1440.23.1920.1057@0.23.1440.838" timestamp="1587474384813" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Util/DBConnectorTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataLag/BikeMapperTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
