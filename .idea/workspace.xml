@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="72536ba5-752c-4724-9d03-aa958f13679c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyRiddle.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyRiddle.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Controller/RiddleHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller/RiddleHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataMappers/RiddleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataMappers/RiddleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Riddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Riddle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/View/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/View/View.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,10 +196,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="544" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1587414370168">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state x="544" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1587461353710">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="544" y="151" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1587414370168" />
+    <state x="544" y="158" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/1440.23.1920.1007@0.23.1440.877" timestamp="1587461353710" />
     <state x="349" y="118" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1587367079446">
       <screen x="0" y="23" width="1440" height="834" />
     </state>

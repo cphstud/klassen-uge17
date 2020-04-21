@@ -1,4 +1,5 @@
 package DataMappers;
+import Model.Player;
 import Model.Riddle;
 import Util.DBConnector;
 
@@ -30,6 +31,35 @@ public class RiddleMapper {
         this.isSolved=false;
     }
      */
+    public int updateRiddle(Riddle riddle, String answer, Player player) {
+        int retVal = 0;
+        String sqlQuery = "";
+        Connection conn = DBConnector.getInstance().getConnection();
+        // TODO:
+        /*
+        select r.riddlename, r.message, p.playername, rp.Timestamp from riddles r, players p,  RiddlePlayer rp
+where  r.riddleid = rp.RiddleID and rp.PlayerID = p.playerid order by 4;
+insert into RiddlePlayer (playerid,riddleid, Timestamp) values (2,3,now())
+         */
+
+        int rid = riddle.getId();
+        int pid = player.getId();
+
+        int solved = 0;
+        sqlQuery = "INSERT into RiddlePlayer (playerid,riddleid, Timestamp) values  " +
+                "("+rid+","+pid+",now())";
+        // lave statement
+        try {
+            Statement stmt = conn.createStatement();
+            stmt.executeUpdate(sqlQuery,Statement.RETURN_GENERATED_KEYS);
+            ResultSet res = stmt.getGeneratedKeys();
+            res.next();
+            retVal =  res.getInt(1);
+        } catch (SQLException e) {
+            System.out.println(e.getMessage());
+        }
+        return retVal;
+    }
 
     public ArrayList<Riddle> getAllRiddles() {
         String query = "";
