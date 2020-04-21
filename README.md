@@ -56,10 +56,20 @@ Så man kan med fordel sætte tempoet op!
 
 [Create Riddle step 3](https://youtu.be/Wc6dCUDRDQM)
 
+[Create Riddle step 4](https://youtu.be/gqBgwau3N0g)
+
+[Create Riddle step 5](https://youtu.be/HMdHMgcJ3QE)
+
+[Create Riddle step 6](https://youtu.be/mYdl-k4-S4Y)
+
+[Create Riddle step 7](https://youtu.be/86blWs2RCNc)
+
 Koden ligger her på branchen riddle
 
 
 ### tirsdag d 21/4 
+[Link til Git Feature Workflow](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
+
 
 |     | Teacher |Student | Group-breakout |individual breakout |
 | --- | ------- |------- | -------------- |------------------- |
@@ -67,12 +77,12 @@ Koden ligger her på branchen riddle
 | 12:45 |`Git`      |        |               |                    | 
 | 13:00 |       |        |`Git opgaver`                ||                     
 | 13:15 |PAUSE       |  PAUSE      |PAUSE                |PAUSE                    |PAUSE 
-| 13:30 | |``  | ||
-| 13:45 | |  `` |||
-| 14:00 | |``  | | |
+| 13:30 |`Riddle Recap` |  | ||
+| 13:45 | |   |`Jeres Mapperflow`||
+| 14:00 | | |`Jeres Mapperflow` | |
 | 14:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
 | 14:30 | |  | | |
-| 14:45 |`Mario II MVC-agtigt` |  | | |
+| 14:45 |`Riddle II MVC-agtigt` |  | | |
 | 15:00 |`` | | | |
 | 15:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
 | 15:30 | |  |`` | |
