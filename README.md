@@ -74,18 +74,18 @@ Koden ligger her på branchen riddle
 |     | Teacher |Student | Group-breakout |individual breakout |
 | --- | ------- |------- | -------------- |------------------- |
 | 12:30 |`Dagen ppt`       |        |                |                    | 
-| 12:45 |`Git`      |        |               |                    | 
-| 13:00 |       |        |`Git opgaver`                ||                     
+| 12:45 |`Riddle Recap`      |        |               |                    | 
+| 13:00 |       |        |`Jeres mapperflow`                ||                     
 | 13:15 |PAUSE       |  PAUSE      |PAUSE                |PAUSE                    |PAUSE 
-| 13:30 |`Riddle Recap` |  | ||
-| 13:45 | |   |`Jeres Mapperflow`||
-| 14:00 | | |`Jeres Mapperflow` | |
+| 13:30 | |  |`Jeres mapplerflow` ||
+| 13:45 | |   |||
+| 14:00 | |`vores mapperflow` | | |
 | 14:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
-| 14:30 | |  | | |
-| 14:45 |`Riddle II MVC-agtigt` |  | | |
-| 15:00 |`` | | | |
+| 14:30 | `Riddle II`|  | | |
+| 14:45 |`Riddle II` |  | | |
+| 15:00 |`Git` | | | |
 | 15:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
-| 15:30 | |  |`` | |
+| 15:30 | |  |`jeres Git` | |
 | 15:45 |`` || | |
 
 
