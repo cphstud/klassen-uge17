@@ -31,7 +31,7 @@ public class RiddleMapper {
         this.isSolved=false;
     }
      */
-    public int updateRiddle(Riddle riddle, String answer, Player player) {
+    public int markRiddleAsSolved(Riddle riddle, String answer, Player player) {
         int retVal = 0;
         String sqlQuery = "";
         Connection conn = DBConnector.getInstance().getConnection();

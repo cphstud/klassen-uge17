@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72536ba5-752c-4724-9d03-aa958f13679c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Controller/RiddleHandlerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller/MainController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Controller/RiddleHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller/RiddleHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/DataMappers/RiddleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataMappers/RiddleMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Model/Riddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Riddle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/View/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/View/View.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="UML Class" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -57,10 +56,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Controller" />
       <recent name="DataMappers" />
       <recent name="Util" />
       <recent name="Model" />
@@ -189,6 +190,8 @@
       <updated>1587366798579</updated>
       <workItem from="1587366802346" duration="19953000" />
       <workItem from="1587452003350" duration="14000" />
+      <workItem from="1587501728708" duration="1250000" />
+      <workItem from="1587555969108" duration="362000" />
     </task>
     <servers />
   </component>
@@ -257,10 +260,11 @@
       <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state x="206" y="74" key="SettingsEditor/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1587369134473" />
-    <state x="613" y="137" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587389836327">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state x="613" y="137" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587502076215">
+      <screen x="0" y="23" width="1440" height="837" />
     </state>
     <state x="613" y="137" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1587389836327" />
+    <state x="613" y="137" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.837/1440.23.1920.1057@0.23.1440.837" timestamp="1587502076215" />
     <state x="394" y="204" width="673" height="472" key="find.popup" timestamp="1587368297894">
       <screen x="0" y="23" width="1440" height="834" />
     </state>

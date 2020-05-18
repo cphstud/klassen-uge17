@@ -18,9 +18,7 @@ public class MainController {
     public MainController(View view, RiddleHandler riddleHandler) {
         ms = new Scanner(System.in);
         rH = new RiddleHandler();
-       riddles = new ArrayList<Riddle>();
         players = new ArrayList<Player>();
-       riddles = rH.getAllRiddles();
         this.view = view;
     }
     // gameloop
@@ -36,7 +34,7 @@ public class MainController {
                     boolean solved = false;
                     Riddle tmpRiddle = null;
                     // TODO: implement getRiddleByLevel or Category
-                    Riddle toSolve = riddles.get(0);
+                    Riddle toSolve = rH.getRiddleById(1);
                     Player player = players.get(0);
                     String riddleFeedBack = "";
                     riddleFeedBack = view.riddleSolve(toSolve,player);

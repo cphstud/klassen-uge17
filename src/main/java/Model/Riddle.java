@@ -64,11 +64,8 @@ public class Riddle {
         return level;
     }
 
-    public String getSolution(Player player) {
-        if (player.getRole().equals("Admin")) {
+    public String getSolution() {
             return solution;
-        }
-        return "Not admin";
     }
 
     public String getName() {
